@@ -5,7 +5,7 @@
 This application is a web application for final capstone project that you can find your favorite Hotel around the world and reserve it for a specific date, find information about a hotel at details page and cancel a reservation.
 
 ## Project Documentation 📄
-- [Live Demo]()
+- [Live Demo](https://hotelreservationfullstack.herokuapp.com/)
 - [API Documentation](http://127.0.0.1:5000/api-docs/index.html)
 
 ## Team members: 4 (Dozie Udeagha, SaharSaba Amiri, Mean Mohammad, Bright Kweku Ahiadeke )
